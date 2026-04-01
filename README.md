@@ -1,2 +1,2 @@
-# Schoo Project Budget tracker 💳
+# C# .NET  School Project Budget tracker 💳
 Budget Tracker
