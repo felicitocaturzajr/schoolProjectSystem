@@ -1,2 +1,2 @@
-# Schoo Project Budget tracker
+# Schoo Project Budget tracker 💳
 Budget Tracker
