@@ -1,2 +1,2 @@
-# schoolProjectSystem
+# Schoo Project Budget tracker
 Budget Tracker
